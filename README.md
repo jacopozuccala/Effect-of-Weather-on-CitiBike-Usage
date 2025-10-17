@@ -23,6 +23,8 @@ che comprende:
 - Longitudine finale
 - Membro o passeggero occasionale
 
+Per le informazioni Sul meteo di New York è stato utilizzato il file: "weather_nyc_july2024.csv".
+
 L'obbiettivo del progetto è quello di mostrare all'azienda, tramite grafici, qual è la realazione tra l'utilizzo dei mezzi forniti da citibike e il meteo giornaliero.
 
 2) File aperto e controllato tramite Excel, per analizzare il contenuto (112444 righe) e verificare se ci sono eventuali elemeti da "pulire" prima di effetuare i calcoli. File nominato: "FileDiPartenza.csv" in questo progetto.
@@ -76,6 +78,8 @@ includes the following information:
 - End latitude
 - End longitude
 - Member or casual rider
+
+For the New York weather information i used the file: "weather_nyc_july2024.csv".
 
 The goal of the project is to show the company, through charts, the relationship between Citi Bike usage and daily weather conditions.
 
