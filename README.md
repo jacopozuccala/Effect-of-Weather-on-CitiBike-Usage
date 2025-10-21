@@ -23,11 +23,11 @@ che comprende:
 - Longitudine finale
 - Membro o passeggero occasionale
 
-Per le informazioni Sul meteo di New York è stato utilizzato il file: "weather_nyc_july2024.csv".
 
 L'obbiettivo del progetto è quello di mostrare all'azienda, tramite grafici, qual è la realazione tra l'utilizzo dei mezzi forniti da citibike e il meteo giornaliero.
 
 2) File aperto e controllato tramite Excel, per analizzare il contenuto (112444 righe) e verificare se ci sono eventuali elemeti da "pulire" prima di effetuare i calcoli. File nominato: "FileDiPartenza.csv" in questo progetto.
+Per le informazioni Sul meteo di New York è stato utilizzato il file: "weather_nyc_july2024.csv".
 
 3) Viene creato un database con postgreSQL e importo i dati al suo interno. File nominato: "CreazioneDatabase.sql".
 
